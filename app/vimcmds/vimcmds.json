@@ -1,0 +1,26 @@
+[
+  {
+    "name": "X",
+    "snippet": "Delete [count] characters before the cursor",
+    "category": "Delete Text",
+    "priority": 1
+  }, 
+  {
+    "name": "D",
+    "snippet": "Delete the characters under the cursor until the end of the line",
+    "category": "Delete Text",
+    "priority": 2
+  }, 
+  {
+    "name": "a",
+    "snippet": "Append text after the cursor [count] times",
+    "category": "Insert Text",
+    "priority": 3
+  }, 
+  {
+    "name": "I",
+    "snippet": "Insert text at the beginning of the cursor line",
+    "category": "Insert Text",
+    "priority": 4
+  }
+]
