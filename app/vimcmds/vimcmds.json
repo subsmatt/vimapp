@@ -22,5 +22,11 @@
     "snippet": "Insert text at the beginning of the cursor line",
     "category": "Insert Text",
     "priority": 4
+  },
+  {
+    "name": "i",
+    "snippet": "Insert text before the cursor [count] times",
+    "category": "Insert Text",
+    "priority": 5
   }
 ]
